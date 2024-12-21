@@ -1,5 +1,6 @@
-# I chose not to complete the dashboard
+# I Chose Not to Complete the Dashboard
 Because uncovering the insights behind the problem was far more important than simply finishing it.
+![1](https://github.com/user-attachments/assets/cb9a64a2-6cb7-4190-8c84-ea24f33cc1f9)
 
 This is a Zomato project. You may have seen many people showcasing their own unique ways of presenting this visualization. Similarly, I decided to give it a try, BUT.....
 The Observation: Total sales were 986M, but the breakdown of Veg (122M), Non-Veg (106M), and Other (24M) didn’t add up. This sparked a deep dive into the data.
