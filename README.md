@@ -17,7 +17,7 @@ This is where we really need to be able to jump in, figuring out what's missing 
 
 2. Customer Sales Check: Total sales and customer sales should align, but they didn’t. (created that customer_sales measure just to compare this)
 
-![6271666242855224121](https://github.com/user-attachments/assets/fb39eaad-0e18-4dda-8a71-92ba60a2d903)
+![6271666242855224121](https://github.com/user-attachments/assets/fae7b3e0-6266-49a5-8985-9802bb032244)
 
 3. City-Wise Analysis: Created a matrix for comparing sales across cities, customer sales, total orders, and sales quantities revealed more inconsistencies.
 
