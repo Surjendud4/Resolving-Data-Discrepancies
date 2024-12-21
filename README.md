@@ -13,11 +13,13 @@ This is where we really need to be able to jump in, figuring out what's missing 
 
 1. Identifying Missing Data: Created a measure "distinct food ID" and by this I uncovered a significant missing record impacting total sales and customer sales.
 
-![3](https://github.com/user-attachments/assets/b12b2f81-53a6-4ce4-9db5-8bc0943e9f77)
+![4](https://github.com/user-attachments/assets/9c185448-b90b-420e-9532-9ade45c4576d)
 
 2. Customer Sales Check: Total sales and customer sales should align, but they didn’t. (created that customer_sales measure just to compare this)
 
 ![4](https://github.com/user-attachments/assets/65e21a03-14d6-4777-a2d5-509f0237495c)
+![6271666242855224121](https://github.com/user-attachments/assets/fb39eaad-0e18-4dda-8a71-92ba60a2d903)
+
 
 3. City-Wise Analysis: Created a matrix for comparing sales across cities, customer sales, total orders, and sales quantities revealed more inconsistencies.
 
